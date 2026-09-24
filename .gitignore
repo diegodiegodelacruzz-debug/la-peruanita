@@ -22,3 +22,17 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Android / Capacitor
+android/
+keystore/
+
+# Dependencies
+node_modules/
+
+# Build
+dist/
+
+# AndroidIDE
+.androidide/
+.androidide-capacitor-build.log
